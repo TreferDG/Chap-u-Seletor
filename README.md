@@ -39,7 +39,7 @@ No final, a casa com maior pontuação será a escolhida pelo **Chapéu Seletor*
 
 - **Python 3**
 
----
 
-## 📂 Estrutura do Projeto
+
+
 
